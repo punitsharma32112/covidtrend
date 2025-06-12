@@ -51,3 +51,18 @@ The image above represents a sample visualization showcasing trends in confirmed
 1. Clone the repo:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+   Open the notebook in Jupyter:
+
+bash
+Copy
+Edit
+jupyter notebook
+Run covid_analysis.ipynb (or your file name).
+
+📄 License
+This project is licensed under the MIT License.
+
+🙌 Acknowledgements
+WHO COVID-19 dataset
+
+Johns Hopkins University CSSE COVID-19 Data
